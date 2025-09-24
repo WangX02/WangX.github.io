@@ -7,11 +7,11 @@ website:
   title: "Wang X"
   site-url: 
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+
   repo-actions: [edit, issue]
   
   page-footer:
-    left: 
+
       
     right: |
       Made with [Quarto](https://quarto.org/)<br>
@@ -26,8 +26,6 @@ website:
         href: publications.qmd
       - text: "Scientific Research Experience"
         href: Scientific Research Experience.qmd
-      - text: "Blogs"
-        href: blog.qmd
       - text: "Codes"
         href: codes.qmd
      
