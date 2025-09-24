@@ -8,7 +8,7 @@ editor: visual
 
 > -   **Google Scholar**:
 > -   **ORCID**:
-> -   **ResearchGate:** \<
+> -   **ResearchGate:**
 :::
 
  
