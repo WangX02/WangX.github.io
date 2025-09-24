@@ -5,10 +5,6 @@ project:
 website:
   page-navigation: true
   title: "Wang X"
-  site-url: 
-  favicon: images/site-logo.png
-
-  repo-actions: [edit, issue]
   
   page-footer:
 
