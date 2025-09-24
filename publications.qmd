@@ -3,18 +3,16 @@ title: "Publications"
 editor: visual
 ---
 
-
-::: {.callout-note}
+::: callout-note
 ## Links
 
->- **Google Scholar**: 
->- **ORCID**: 
->- **ResearchGate:** <
+> -   **Google Scholar**:
+> -   **ORCID**:
+> -   **ResearchGate:** \<
 :::
 
-&emsp;
+ 
 
 ## Research paper
 
--   **Xi Wang**, 
-
+-   **Xi Wang**,
