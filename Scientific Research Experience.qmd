@@ -1,0 +1,29 @@
+---
+title: "Scientific Research Experience"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+    
+## Isolation, Identification, and Comparative Analysis of the Immunoprotective Efficacy of PLO Protein in Trueperella pyogenes Derived from Deer and Swine
+
+*Trueperella pyogenes* is an important opportunistic pathogen, with pyolysin (PLO) serving as its primary virulence factor. This study employed a mouse model to evaluate the immunogenicity of two vaccines: a recombinant T. pyogenes PLO protein and an inactivated vaccine. Immunization groups were established and vaccine efficacy was assessed using an established indirect ELISA method, flow cytometry (T lymphocyte subset analysis), histopathological examination, real-time PCR (cytokine detection), and challenge protection tests.
+
+ ## Construction of a Recombinant Vector for the TGEV N Protein Expressed by Attenuated Salmonella
+
+Transmissible gastroenteritis virus (TGEV) contains three structural proteins: N, S, and M. The process by which Salmonella infects its host is similar to that of TGEV. This project involves inserting a gene fragment encoding the TGEV N protein into the plasmid of attenuated Salmonella, enabling the attenuated Salmonella to present the TGEV N protein recombinant vector to the host.
+
+
+
+
+
+
+
+
+&emsp;
+
+![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/Lianxh_装饰黄线.png)
+
+
+
